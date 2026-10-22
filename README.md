@@ -1,4 +1,4 @@
-Código
+AI_PROYECT
 #AI_PROJECT
 Trabajo ETDI02-Tendencias emergentes de IA con GitHul
 AUTORA: Gladys victoria Bravo Diaz
